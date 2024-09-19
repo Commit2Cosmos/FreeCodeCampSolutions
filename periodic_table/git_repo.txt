@@ -1,0 +1,5 @@
+mkdir periodic_table
+cd periodic_table
+git init
+git branch -m main
+git commit -am 'Initial commit'
