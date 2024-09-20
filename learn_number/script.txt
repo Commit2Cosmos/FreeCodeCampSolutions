@@ -1,0 +1,19 @@
+mkdir number_guessing_game
+cd number_guessing_game
+touch number_guess.sh
+chmod +wx number_guess.sh ../create_db.sh
+
+git init
+git branch -m main
+git add .
+git commit -am 'Initial commit'
+
+git commit -am 'fix: shebang and psql commands added'
+
+
+
+---Xtra---
+
+psql --username=freecodecamp --dbname=postgres
+
+git commit -am 'fix: '
