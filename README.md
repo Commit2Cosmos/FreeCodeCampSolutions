@@ -3,4 +3,5 @@
 ## Certifications
 
 - [x] Relational Database
-- [ ] Data Analysis with Python
+- [x] Data Analysis with Python
+- [ ] 
